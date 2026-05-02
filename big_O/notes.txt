@@ -1,0 +1,11 @@
+see in this folder you would learn about all the big o
+o(n) it is usually called as proportional
+o(n^2) also called as loop within a loop [the worst solution a code can have]
+o(1) also called as constant [the best solution a code can have]
+o(log n) also called as divide and conquer [it is also the best solution to have]
+
+for knowing about all the time complexity and space complexity you can visit
+https://www.bigocheatsheet.com/
+as here you will see all the complexities for sorting and other DSA
+also one hint: we usually talk about space complexity only in sorting
+because all other DSA almost have same space complexity of o(n)
