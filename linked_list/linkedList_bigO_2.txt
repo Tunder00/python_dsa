@@ -1,0 +1,12 @@
+in linked list below are the big O compared with list
+
+              | linkedlist | list
+-----------------------------------
+append        | O(1)       | O(1)
+pop           | O(n)       | O(1)
+prepend       | O(1)       | O(n)
+pop 1st       | O(1)       | O(n)
+insert        | O(n)       | O(n)
+remove        | O(n)       | O(n)
+look up index | O(n)       | O(1)
+look up value | O(n)       | O(n)

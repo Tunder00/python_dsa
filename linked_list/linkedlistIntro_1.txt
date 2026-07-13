@@ -1,0 +1,2 @@
+linked list is not contigious memory but still we can find elements because each node points to next 
+ex: 11 --> 3 --> 27 --> 7

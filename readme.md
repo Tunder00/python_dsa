@@ -9,3 +9,4 @@ the learning order will be mentioned below
 1. big_O (directory in repo)
 2. classes (directory in repo)
 3. pointers (directory in repo)
+4. linked_list (directory in repo)
