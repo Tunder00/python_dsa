@@ -1,0 +1,42 @@
+lets have a LL
+head               tail
+ |                  |
+ |                  |
+11 --> 3 --> 23 --> 7 --> 
+if we add 4 --> a new node to this what will happen
+
+head                     tail
+ |                        |
+ |                        |
+11 --> 3 --> 23 --> 7 --> 4 -->
+
+
+node: what is a node
+ans: node contains the value and next pointer.
+
+eg: 
+{
+    value:4,
+    next:None
+}
+{
+    value:7,
+    next:None
+}
+how we say 
+head:{
+    value:11,
+    next:{
+        value:3,
+        next:{
+            value:23,
+            next:{
+                value:7,
+tail ---------->next:{
+                    value:4,
+                    next: None
+                }
+            }
+        }
+    }
+}
